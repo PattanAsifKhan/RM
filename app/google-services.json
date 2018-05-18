@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "946110903782",
+    "firebase_url": "https://rmapp2-b224a.firebaseio.com",
+    "project_id": "rmapp2-b224a",
+    "storage_bucket": "rmapp2-b224a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946110903782:android:c9654ff5c30a6987",
+        "android_client_info": {
+          "package_name": "org.hitam.rmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946110903782-5efajroqlrajrvd0srica020ef5j97bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.hitam.rmapp",
+            "certificate_hash": "5aeff3153cd1d76ad4a11bed543bd6d5ff00ad42"
+          }
+        },
+        {
+          "client_id": "946110903782-td3uo674v6dudjm336g2phfoub54os9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBvHL1gXMnndfSoWJnip8k7tU9KTuZDc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946110903782-td3uo674v6dudjm336g2phfoub54os9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
